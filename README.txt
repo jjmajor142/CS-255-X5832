@@ -1,0 +1,5 @@
+-DriverPass was a project designed to help people struggling to pass their driving tests with the DMV. The owner wanted to put together a program that would have practice tests and learning courses. In addition, the student could make a driving appointment for hands on practice. 
+-I was particularly good at reading the interview manuscript and putting the thoughts into a UML class diagram. The class diagrams make the most sense to me.
+-I would probably redo the gantt chart . I would make the timeline easier to understand.
+-It is important to understand the user’s needs because you have to design your program to be user friendly or else nobody will want to use it. 
+-In the future I will use UML class diagrams to gain an idea of how the program should be structured before even starting to write the code.
